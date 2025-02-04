@@ -94,4 +94,12 @@ footer {
   .hero {
     flex-direction: column;
   }
+  .about{
+    flex-direction: column;
+  }
+  .projectCard{
+    flex-direction: column;  
+  }
+  
 }
+
